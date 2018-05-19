@@ -1,6 +1,6 @@
 # Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 
-Project for the course "Statistique bayesienne" at ENSAE
+Project for the course "Statistique bayésienne" at ENSAE
 
 ## Contexte
 
